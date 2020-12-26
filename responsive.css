@@ -1,0 +1,194 @@
+/* RES */
+
+@media only screen and (max-width: 999px) {
+	
+	.carousel-caption{
+		left:0%;
+		bottom:0%;
+	}
+	.carousel-caption span{
+		font-size:25px !important;
+	}
+	.carousel-caption p{
+		font-size:12px !important;
+		font-weight: 400;
+		width:250px;
+	}
+	.urun-baslik .yeniurunler-altbaslik {
+		line-height: 30px;
+	}
+	.yeniurunler-altbaslik{
+		font-size:23px !important;
+	}
+	.musteriyorum .yeniurunler-altbaslik{
+		font-size:23px !important;
+		line-height: 30px;
+		text-align: center;
+	}
+	.sol-ozel{
+		margin-top:0rem !important;
+	}
+	.sol-container{
+		width:100%;
+	}
+	.fnt54{
+		font-size: 28px;
+	}
+	.takip-et span{
+		margin-right: 2px;
+	}
+	.f-t{
+		margin-top:10px;
+	}
+	.ft{
+		display: block;
+		width:100%;
+		margin-bottom:10px;
+	}
+	.ozel-submit{
+		margin-top:5%;
+	}
+	.ozelbuton{
+		width: initial;
+		display: initial;
+		height: initial;
+		padding-top:5px;
+	}
+	.ozel-height{
+		height: 260px;
+		max-height: 260px;
+	}
+	.renkler li{
+		margin-right:5px;
+	}
+	.slidek-img{
+		object-fit: cover;
+		height: 230px;
+	}
+	.contact-top-bg{
+		background-color: #e8b23df5;
+	}
+	.ozel-inline{
+		display: inline-block;
+	}
+	.ozel-inline li{
+		display: inline-block;
+		float: left;
+		width:35%;
+	}
+	.takip-et span{
+		margin-right: 10px;
+	}
+	.footer-ozeltext{
+		padding:2px;
+	}
+
+}
+
+
+
+@media only screen and (min-width: 1000px) {
+	
+	.carousel-caption{
+		left:2%;
+		bottom:1%;
+	}
+
+	
+
+}
+@media only screen and (min-width: 1200px) {
+	
+	.carousel-caption{
+		left:2%;
+		bottom:9%;
+	}
+	.ozel-container{
+		margin-right: 7%;
+	}
+	.urun-baslik .yeniurunler-altbaslik{
+		line-height: 70px;
+	}
+
+}
+@media only screen and (min-width: 1500px) {
+	
+	.carousel-caption{
+		left:8%;
+		bottom:28%;
+	}
+
+}
+
+
+
+@media only screen and (max-width: 1780px) {
+	
+	.carousel-caption{
+		left:8%;
+
+	}
+
+}
+
+
+@media only screen and (min-width: 1780px) {
+	
+	.carousel-caption{
+		left:15%;
+	}
+
+	.slide-ul{
+		margin-left:30px;
+		margin-top:10px;
+	}
+	.ozel-container{
+		margin-right: 22%;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	
+	.carousel-caption{
+		left:0%;
+		bottom:0%;
+	}
+	.carousel-caption span{
+		font-size:15px !important;
+	}
+	.carousel-caption p{
+		/*display: none;*/
+	}
+
+	#kayanUrunler .carousel-inner{
+		height: 360px;
+	}
+
+	.ozel-nav li:hover a:before{
+		content: " ";
+		display: none;
+	}
+	.sayfalama{
+		font-size:15px !important;
+		padding:10px 10px;
+	}
+	.urun-cont .detail{
+		opacity: 1;
+	}
+	.urun-cont .detail-button{
+		opacity: 1;
+
+	}
+	.urunPrevNext
+	{
+		width:55px;
+		transition: width .4s;
+	}
+	.urunitem{
+		margin-bottom: 10px;
+	}
+	.form-buton{
+		font-size:11px;
+	}
+
+}
